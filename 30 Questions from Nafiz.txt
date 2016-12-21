@@ -1,0 +1,29 @@
+1. Linux command .
+2.Testing Dynamic Element ?
+3.what  is glue in cucumber ?
+4.what is virtual machine ?
+5.how can i run suite in cucumber ?
+6.Use of Example keyword in cucumber.
+7.What is File Explorer ?
+8.What is pr and hr tag ?
+9.What is Testware?
+10. What is the difference between the QA and software testing?
+11.What is bug leakage?
+12. What is branch testing and what is boundary testing?
+13.ITest listner.
+14.Agile Product backlog.
+15.Test case writing .
+17.Video/audio related testing
+18.What are Test Driver and Test Stub and why are they required?
+19.Maven life cycle .
+20.Automation challenges.
+21.Jira board.
+22.what is install script in release mechanisum ?
+23.Web Dubuging-http,Header
+24.What is I Frame ?
+25.What is Test Bed?
+26.What is term bug ?
+27.What are the different types of automation tool ?
+28.What is Defect density ?
+29.What is independent test group?
+30.What is sanity testing?
