@@ -1,0 +1,21 @@
+static keyword , why u use abstract in your project,final,finally,finalize,what is static block,what is constractor,jdbc connection , Modifier, OOP concept of java , constractor does not have any return type but it return instance,Super method ,Super keyword , this keyword , this method, getter setter method ,
+
+interview : 1) java full (next saturday ).
+
+........................................................
+ Maven
+
+1.What are the command you used in maven?
+2.
+
+
+
+
+Junit:
+1.What is unit testing?
+2.Difference between junit and TestNG
+3.Annotation
+4.
+
+TestNG:
+
