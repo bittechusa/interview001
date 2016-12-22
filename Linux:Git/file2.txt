@@ -1,1 +1,30 @@
-This linux practice file2 will give detail explanation of linux commands
+30 interview questions
+1. How to handle Iframe?
+2. What is Maven Lifecycle? What are the  commands in git to run maven projects and see updates about the project?
+3. Difference between testNgListner and WebdriverListner? When to use them?
+4. How to configure Sauce lab?
+5. Agile challenges faced by QA testers?
+6. What is test plan? Talk about its components
+7. What is test case? Talk about its components
+9. What is test strategy? Talk about its components
+10.How to click without using click()?
+11.Describe your last framework and describe what benefits it provided?
+12.Talk about the Dev tool and how QAs can be helpful using each of the tabs.
+13.What is grooming?
+14.How do you decide the story points?
+15.Difference between cookies and caches? How they help loading a webpage faster?
+16.What is API testing?  Talk in details
+17. What is virtualization testing?
+18. What is protector?
+19. What is gitHub?  How to navigate in gitHub without running into confusion?
+20. What is m2 folder in maven?
+21.How do you varify if a filter is working?  (check box)
+22. What are Br, hr tags?
+23. if the xpath is working properly, what are some other reasons that you are unable to click?
+24. How to handle ajax elements?
+25. In order to work in 3rd party api what kind of challenges do you face?
+26. What is session id and when do you use it?
+27. Reason for leaving the current job?
+28. What is APM testing?
+29. How to create a triangle in java?
+30. What is Fibonaci number?
